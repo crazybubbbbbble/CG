@@ -1,0 +1,30 @@
+﻿  glut_framework.cpp
+D:\vs code\PBL\matrix.h(291,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vs code\PBL\canvas.h(97,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs code\PBL\canvas.h(98,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs code\PBL\canvas.h(99,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs code\PBL\canvas.h(100,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs code\PBL\canvas.h(164,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs code\PBL\canvas.h(164,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\vs code\PBL\canvas.h(168,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs code\PBL\canvas.h(180,1): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\vs code\PBL\OBJ_Loader.h(951,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\vs code\PBL\scene.h(48,8): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\vs code\PBL\scene.h(48,19): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\vs code\PBL\scene.h(233,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\vs code\PBL\scene.h(233,34): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\vs code\PBL\scene.h(235,58): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\vs code\PBL\scene.h(235,45): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+D:\vs code\PBL\scene.h(250,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs code\PBL\scene.h(251,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs code\PBL\scene.h(252,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs code\PBL\scene.h(253,11): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\vs code\PBL\scene.h(288,27): warning C4838: 从“float”转换到“int”需要收缩转换
+D:\vs code\PBL\scene.h(288,27): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\vs code\PBL\scene.h(288,46): warning C4838: 从“float”转换到“int”需要收缩转换
+D:\vs code\PBL\scene.h(288,46): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\vs code\PBL\scene.h(288,65): warning C4838: 从“float”转换到“int”需要收缩转换
+D:\vs code\PBL\scene.h(288,65): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\vs code\PBL\scene.h(337,1): warning C4305: “参数”: 从“double”到“float”截断
+D:\vs code\PBL\scene.h(338,1): warning C4305: “参数”: 从“double”到“float”截断
+D:\vs code\PBL\glut_framework.cpp(4,10): fatal  error C1083: 无法打开包括文件: “GLUT.H”: No such file or directory

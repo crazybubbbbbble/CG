@@ -1,0 +1,45 @@
+﻿  glut_framework.cpp
+F:\visual stdio\PBL\matrix.h(333,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\visual stdio\PBL\eigen-3.4.0\Eigen\src\Core\arch\Default\Half.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\visual stdio\PBL\eigen-3.4.0\Eigen\src\Core\arch\Default\BFloat16.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\visual stdio\PBL\eigen-3.4.0\Eigen\src\Core\arch\Default\GenericPacketMathFunctions.h(676,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+F:\visual stdio\PBL\canvas.h(97,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\visual stdio\PBL\canvas.h(98,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\visual stdio\PBL\canvas.h(99,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\visual stdio\PBL\canvas.h(100,16): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\visual stdio\PBL\canvas.h(150,27): warning C4018: “<”: 有符号/无符号不匹配
+F:\visual stdio\PBL\canvas.h(159,38): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\visual stdio\PBL\canvas.h(159,27): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\visual stdio\PBL\OBJ_Loader.h(654,43): warning C4018: “<”: 有符号/无符号不匹配
+F:\visual stdio\PBL\OBJ_Loader.h(691,31): warning C4018: “<”: 有符号/无符号不匹配
+F:\visual stdio\PBL\OBJ_Loader.h(697,35): warning C4018: “<”: 有符号/无符号不匹配
+F:\visual stdio\PBL\OBJ_Loader.h(951,33): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+F:\visual stdio\PBL\scene.h(85,8): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\visual stdio\PBL\scene.h(85,19): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\visual stdio\PBL\scene.h(212,21): warning C4018: “<”: 有符号/无符号不匹配
+F:\visual stdio\PBL\scene.h(226,22): warning C4018: “<”: 有符号/无符号不匹配
+F:\visual stdio\PBL\scene.h(253,21): warning C4018: “<”: 有符号/无符号不匹配
+F:\visual stdio\PBL\scene.h(355,47): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\visual stdio\PBL\scene.h(355,34): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\visual stdio\PBL\scene.h(357,58): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\visual stdio\PBL\scene.h(357,45): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+F:\visual stdio\PBL\scene.h(361,20): warning C4018: “<”: 有符号/无符号不匹配
+F:\visual stdio\PBL\scene.h(396,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\visual stdio\PBL\scene.h(398,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\visual stdio\PBL\scene.h(400,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\visual stdio\PBL\scene.h(402,12): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+F:\visual stdio\PBL\scene.h(439,28): warning C4838: 从“float”转换到“int”需要收缩转换
+F:\visual stdio\PBL\scene.h(439,28): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\visual stdio\PBL\scene.h(439,47): warning C4838: 从“float”转换到“int”需要收缩转换
+F:\visual stdio\PBL\scene.h(439,47): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\visual stdio\PBL\scene.h(439,66): warning C4838: 从“float”转换到“int”需要收缩转换
+F:\visual stdio\PBL\scene.h(439,66): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+F:\visual stdio\PBL\scene.h(489,35): warning C4305: “参数”: 从“double”到“float”截断
+F:\visual stdio\PBL\scene.h(489,26): warning C4305: “参数”: 从“double”到“float”截断
+F:\visual stdio\PBL\scene.h(490,28): warning C4305: “参数”: 从“double”到“float”截断
+F:\visual stdio\PBL\scene.h(490,18): warning C4305: “参数”: 从“double”到“float”截断
+F:\visual stdio\PBL\scene.h(490,8): warning C4305: “参数”: 从“double”到“float”截断
+F:\visual stdio\PBL\scene.h(490,64): warning C4305: “参数”: 从“double”到“float”截断
+F:\visual stdio\PBL\scene.h(490,54): warning C4305: “参数”: 从“double”到“float”截断
+F:\visual stdio\PBL\scene.h(490,45): warning C4305: “参数”: 从“double”到“float”截断
+  PBL.vcxproj -> F:\visual stdio\PBL\Debug\PBL.exe
